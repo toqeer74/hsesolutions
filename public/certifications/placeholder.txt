@@ -1,7 +1,0 @@
-This is a placeholder file. Please replace the certification PDFs with your actual certification documents:
-
-1. nebosh.pdf - NEBOSH IGC Certificate
-2. iosh.pdf - IOSH Certificate
-3. osha.pdf - OSHA Certificate
-4. iso45001.pdf - ISO 45001 Certificate
-5. industrial-hygiene.pdf - Industrial Hygiene Certificate
