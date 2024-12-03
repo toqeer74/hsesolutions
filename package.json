@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://toqeer-hussain.github.io/hsesolutions",
+  "homepage": "https://toqeer74.github.io/hsesolutions",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

@@ -5,6 +5,7 @@ export default defineConfig({
   plugins: [react()],
   base: '/hsesolutions/',
   build: {
-    outDir: 'dist'
+    outDir: 'dist',
+    assetsDir: 'assets'
   }
 })
